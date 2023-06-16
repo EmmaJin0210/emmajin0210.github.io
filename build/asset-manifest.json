@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12adefce.css",
+    "main.js": "/static/js/main.ed6716ed.js",
+    "static/js/787.633816a4.chunk.js": "/static/js/787.633816a4.chunk.js",
+    "static/media/grad_photo_1_c.png": "/static/media/grad_photo_1_c.02a258bccfb8b13c72f5.png",
+    "static/media/swatCS_300x300.png": "/static/media/swatCS_300x300.b2e60eb6a5183a06a5d0.png",
+    "static/media/parlom_300x300.png": "/static/media/parlom_300x300.3f65e865c39e843db05a.png",
+    "index.html": "/index.html",
+    "main.12adefce.css.map": "/static/css/main.12adefce.css.map",
+    "main.ed6716ed.js.map": "/static/js/main.ed6716ed.js.map",
+    "787.633816a4.chunk.js.map": "/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12adefce.css",
+    "static/js/main.ed6716ed.js"
+  ]
+}
