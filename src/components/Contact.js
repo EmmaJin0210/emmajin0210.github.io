@@ -1,4 +1,11 @@
 import React from "react";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { library } from '@fortawesome/fontawesome-svg-core'
+
+import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons'
+import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons'
+
+library.add(faLinkedin, faGithub, faEnvelope, faPhone)
 
 const Contact = () => {
   return (
@@ -8,16 +15,26 @@ const Contact = () => {
           Contact Me
         </h2>
         <p>
-          I am currently looking for Software Engineering internships for summer 2024. Please feel free 
-          to contact me via any means below:
+          I am currently looking for Software Engineering internships for summer 2024. <br></br>
+          Please feel free to contact me via any means below:
         </p>
 
-        <p className="py-2">
-          <span className="font-bold">Email:</span> emma.mq.jin@gmail.com
-        </p>
-        <p className="py-2">
-          <span className="font-bold">Phone:</span> +1 4844784779
-        </p>
+        <div className='container md:mx-auto'>
+            <div className='text-center text-2xl'>
+                <a href="https://www.linkedin.com/in/emma-jin/">
+                    <FontAwesomeIcon className='p-5' icon="fa-brands fa-linkedin" />
+                </a>
+                <a href="https://github.com/EmmaJin0210">
+                    <FontAwesomeIcon className='p-5' icon="fa-brands fa-github" />
+                </a>
+                <a href="mailto:emma.mq.jin@gmail.com">
+                    <FontAwesomeIcon className='p-5' icon="fa-solid fa-envelope" />
+                </a>
+                <a href="tel:+14844784779">
+                    <FontAwesomeIcon className='p-5' icon="fa-solid fa-phone" />
+                </a>     
+            </div>
+        </div>
       </div>
     </section>
   );
