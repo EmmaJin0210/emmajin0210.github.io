@@ -15,7 +15,7 @@ const Contact = () => {
           Contact Me
         </h2>
         <p>
-          I am currently looking for Software Engineering internships for summer 2024. <br></br>
+          I am currently looking for 2025 New Grad positions. <br></br>
           Please feel free to contact me via any means below:
         </p>
 

@@ -16,9 +16,24 @@ const About = () => {
             and an aspiring Software Engineer.
           </p>
           <p className="pb-5">
-            I especially enjoy full-stack and backend development,<br></br>
-            and am proficient in frameworks such as Python Flask,<br></br>
-            Django, and React.js. 
+            My background is in backend development for large-scale<br></br>
+            systems and cloud enterprise applications, with experience<br></br>
+            in scalable data processing, cloud integrations, and<br></br>
+            performance optimization.
+            <br></br>
+            In my past internships, I worked on high-scale data pipelines,<br></br>
+            query optimization, and cloud-based enterprise solutions.<br></br>
+            I’m proficient in Python, C++, and Java, with expertise in<br></br>
+            backend and data technologies like PostgreSQL, Snowflake,<br></br>
+            GraphQL, AWS, and GCP.
+            <br></br>
+            Entering grad school, I became increasingly interested<br></br>
+            in applied AI/ML and NLP, leading me to focus on research<br></br>
+            and projects in this area. I’m excited about opportunities<br></br>
+            at the intersection of AI, backend engineering, and scalable<br></br>
+            cloud applications.
+            <br></br>
+            Learn more about my research and projects below.<br></br>
           </p>
           <p className="pb-5">
             In my free time, aside from building projects, I enjoy<br></br>
