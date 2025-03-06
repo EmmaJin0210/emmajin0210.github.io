@@ -1,27 +1,54 @@
 import React from "react";
 import procrastimate from "../assets/Study_buddy_300x300.jpeg";
-import parlom from "../assets/parlom_300x300.png";
 import swatCSPassword from "../assets/swatCS_300x300.png";
+import chatLingual from "../assets/chatlingual_300x300.jpg";
+import haskellChat from "../assets/haskellchat_300x300.png";
+import devflow from "../assets/devflow_300x300.png";
+import penncloud from "../assets/penncloud_300x300.jpg";
 
 const Projects = () => {
   const projects = [
     {
+      img: chatLingual,
+      title: "ChatLingual",
+      desc: "LLM-powered multimodal language tutor supporting real-time audio and text conversations.",
+      skills: "Python, PyTorch, Hugging Face, OpenAI, FastAPI, WebSockets, Transformers, NLP",
+      link: "https://github.com/EmmaJin0210/LLMLanguageTutor/tree/demo-v1",
+    },
+    {
       img: swatCSPassword,
       title: "SwatCS Password Service",
-      desc: "Password service platform for Swarthmore College CS students. Built with Python Flask. ",
+      desc: "Password service platform for Swarthmore College CS students. Built with Python Flask.",
+      skills: "Python, Flask, SQL, Authentication, Web Security",
       link: "https://password.cs.swarthmore.edu/",
+    },
+    {
+      img: haskellChat,
+      title: "HaskellChat",
+      desc: "Distributed, fault-tolerant chat server with FIFO ordering and load balancing.",
+      skills: "Haskell, Distributed Systems, WebSockets, Load Balancing, Concurrency",
+      link: "https://github.com/EmmaJin0210/haskellChat",
+    },
+    {
+      img: devflow,
+      title: "DevFlow",
+      desc: "All-in-one note-code editor with GPT-powered outline suggestion.",
+      skills: "React, JavaScript, HTML, CSS, OpenAI, Git, Figma, Heroku",
+      link: "https://emmajin0210.github.io/DevFlow-Public/",
     },
     {
       img: procrastimate,
       title: "ProcrastiMate",
       desc: "iOS app for students to find nearby study-buddies. Built with Swift and Parse(Back4App).",
+      skills: "Swift, Parse, iOS Development, REST APIs, UI/UX Design",
       link: "https://github.com/21Pod/StudyBuddy/",
     },
     {
-      img: parlom,
-      title: "Parlom",
-      desc: "Orchestra management platform for teachers and managers. Built with React, TypeScript, and Python.",
-      link: "https://docs.google.com/presentation/d/1AsegOWpB6A-QrOS4XbYci1dYX8z0m--ZbD_un60fGVY/edit?usp=sharing",
+      img: penncloud,
+      title: "PennCloud (course project but cool : ))",
+      desc: "Distributed cloud storage with load balancing, webmail, and file management.",
+      skills: "C++, Distributed Systems, Load Balancing, Replication, Fault Tolerance, Key-Value Stores",
+      link: "https://docs.google.com/document/d/1eR5kaILgbaLI0UpCm-b9uu_hoknsul2Ofx2-zeTBG-o/edit?usp=sharing",
     },
   ];
 

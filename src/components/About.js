@@ -16,31 +16,29 @@ const About = () => {
             and an aspiring Software Engineer.
           </p>
           <p className="pb-5">
-            My background is in backend development for large-scale<br></br>
-            systems and cloud enterprise applications, with experience<br></br>
-            in scalable data processing, cloud integrations, and<br></br>
-            performance optimization.
-            <br></br>
-            In my past internships, I worked on high-scale data pipelines,<br></br>
-            query optimization, and cloud-based enterprise solutions.<br></br>
-            I’m proficient in Python, C++, and Java, with expertise in<br></br>
-            backend and data technologies like PostgreSQL, Snowflake,<br></br>
-            GraphQL, AWS, and GCP.
-            <br></br>
-            Entering grad school, I became increasingly interested<br></br>
+            My background is in backend and fullstack development for<br></br>
+            large-scale systems and cloud enterprise applications, with<br></br>
+            experience in scalable data processing, cloud integrations,<br></br>
+            and performance optimization. In my past internships, I worked<br></br>
+            on high-scale data pipelines, query optimization, and<br></br>
+            cloud-based enterprise solutions.<br></br>
+          </p>
+          <p className="pb-5">
+            After entering grad school, I became increasingly interested<br></br>
             in applied AI/ML and NLP, leading me to focus on research<br></br>
-            and projects in this area. I’m excited about opportunities<br></br>
-            at the intersection of AI, backend engineering, and scalable<br></br>
-            cloud applications.
-            <br></br>
-            Learn more about my research and projects below.<br></br>
+            and projects in this area. I also developed a strong interest<br></br>
+            in distributed systems, working on projects involving fault<br></br>
+            tolerance, scalability, and reliable data transmission. I’m<br></br>
+            excited about opportunities in applied AI/ML, backend engineering,<br></br>
+            and scalable cloud applications.
           </p>
           <p className="pb-5">
             In my free time, aside from building projects, I enjoy<br></br>
-            distance running, cycling, figure skating, and taiko<br></br>
-            (Japanese drumming)!
+            distance running, figure skating, and taiko (Japanese drumming)!<br></br>
           </p>
-          
+          <p className="pb-5">
+            Learn more about my research and projects below.<br></br>
+          </p>
         </div>
 
         <div className="about-img">
