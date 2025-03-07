@@ -12,14 +12,14 @@ const Projects = () => {
       img: chatLingual,
       title: "ChatLingual",
       desc: "LLM-powered multimodal language tutor supporting real-time audio and text conversations.",
-      skills: "Python, PyTorch, Hugging Face, OpenAI, FastAPI, WebSockets, Transformers, NLP",
+      skills: "Python, PyTorch, Hugging Face, OpenAI, FastAPI, WebSockets, Transformers, Git",
       link: "https://github.com/EmmaJin0210/LLMLanguageTutor/tree/demo-v1",
     },
     {
       img: swatCSPassword,
       title: "SwatCS Password Service",
-      desc: "Password service platform for Swarthmore College CS students. Built with Python Flask.",
-      skills: "Python, Flask, SQL, Authentication, Web Security",
+      desc: "Password service platform for Swarthmore College CS students.",
+      skills: "Python, Flask, Networks, GitHub Actions, Software Development Life Cycle, CI/CD",
       link: "https://password.cs.swarthmore.edu/",
     },
     {

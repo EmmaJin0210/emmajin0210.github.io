@@ -59,9 +59,9 @@ const Experience = () => {
             <p className="pb-5"> <b>COMPUTER SCIENCE DEPT., UNIV. OF PENNSYLVANIA</b>
             &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
             01/2025-Present<br></br>
-            Advised by: Liam Dugan, Prof. Chris Callison-Burch
+            Advised by: Liam Dugan, Prof. Chris Callison-Burch<br></br>
             <b>Difficulty-Controlled Language Tutoring with LLMs</b> | <i>Python, Pytorch, Hugging Face, OpenAI, Transformers, CUDA</i><br></br>
-            &#x2022;&emsp;Experimenting with methods for controlled text generation to enhance chatbot response reliability
+            &#x2022;&emsp;Experimenting with methods for controlled text generation to enhance chatbot response reliability<br></br>
             &#x2022;&emsp;Designed evaluation framework using multi-turn conversations between LLMs to assess system performance</p>
           </ul>
 
@@ -69,7 +69,7 @@ const Experience = () => {
             <p className="pb-5"> <b>COMPUTER SCIENCE DEPT., UNIV. OF PENNSYLVANIA</b>
             &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
             09/2024-12/2024<br></br>
-            Advised by: Liam Dugan, Prof. Chris Callison-Burch
+            Advised by: Liam Dugan, Prof. Chris Callison-Burch<br></br>
             <b>MoE Detectors for AI-Generated Text</b> | <i>Python, Pytorch, Hugging Face, OpenAI, Transformers, CUDA</i><br></br>
             &#x2022;&emsp;Trained Ensemble and Mixture-of-Experts models to detect AI-generated text</p>
           </ul>
@@ -78,9 +78,9 @@ const Experience = () => {
             <p className="pb-5"> <b>COMPUTER SCIENCE DEPT., UNIV. OF PENNSYLVANIA</b>
             &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
             01/2024-08/2024<br></br>
-            Advised by: Tianyi Zhang, Andrew Zhu, Prof. Chris Callison-Burch
+            Advised by: Tianyi Zhang, Andrew Zhu, Prof. Chris Callison-Burch<br></br>
             <b>Procedural World Generation for Text Adventure Games</b> | <i>Python, Hugging Face, OpenAI, Transformers</i><br></br>
-            &#x2022;&emsp;Built procedural world generation pipeline to maintain coherence and context in LLM-generated game environments
+            &#x2022;&emsp;Built procedural world generation pipeline to maintain coherence and context in LLM-generated game environments<br></br>
             &#x2022;&emsp;Published at Wordplay @ ACL2024
             <a href="https://wordplay-workshop.github.io/pdfs/15.pdf" target="_blank" class="text-indigo-400 underline"> (paper link) </a> 
             </p>
@@ -90,7 +90,7 @@ const Experience = () => {
             <p className="pb-5"> <b>STATISTICS DEPT., SWARTHMORE COLLEGE</b>
             &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
             09/2022-05/2023<br></br>
-            Advised by: Prof. Steve Wang
+            Advised by: Prof. Steve Wang<br></br>
             <b>Biodiversity Crisis - Statistical Paleontology</b> | <i>R/RStudio</i><br></br>
             &#x2022;&emsp;Analyzed the current biodiversity crisis with mass and background extinctions</p>
           </ul>
@@ -98,7 +98,7 @@ const Experience = () => {
             <p className="pb-5"> <b>COMPUTER SCIENCE DEPT., SWARTHMORE COLLEGE</b>
             &emsp;&emsp;&emsp;&emsp;
             12/2021-05/2022<br></br>
-            Advised by: Prof. Xiaodong Qu
+            Advised by: Prof. Xiaodong Qu<br></br>
             <b>EEG Signals - BCI</b> | <i>Python, Scikit-learn, Matplotlib, NumPy, TensorFlow</i><br></br>
             &#x2022;&emsp;Trained models and compared performance of ML/DL algorithms on BCI data</p>
           </ul>
@@ -106,7 +106,7 @@ const Experience = () => {
             <p className="pb-5"> <b>STATISTICS DEPT., SWARTHMORE COLLEGE</b>
             &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
             01/2021-05/2021<br></br>
-            Advised by: Prof. Steve Wang
+            Advised by: Prof. Steve Wang<br></br>
             <b>Duration of Mass Extinction - Statistical Paleontology</b> | <i>R/RStudio</i><br></br>
             &#x2022;&emsp;Improved algorithm estimating duration of mass extinction with fossil records</p>
           </ul>
@@ -124,9 +124,9 @@ const Experience = () => {
             &nbsp;&nbsp;
             Expected 05/2025<br></br>
             <b>Masters of Science in Engineering, Computer and Information Science</b><br></br>
-            <b>Concentration: Artificial Intelligence</b><br></br>
+            Concentration: <b>Artificial Intelligence</b><br></br>
             <i>Courses:</i> Artificial Intelligence, Distributed Systems, Operating Systems, <br></br>
-            Text Generation with LLMs, Algorithms, Functional Programming<br></br>
+            &emsp;Text Generation with LLMs, Algorithms, Functional Programming<br></br>
             <i>TA:</i> Distributed Systems, Artificial Intelligence<br></br>
             </p>
           </ul>
@@ -138,7 +138,7 @@ const Experience = () => {
             <b>Bachelor's of Arts, Computer Science, Statistics, English Literature</b><br></br>
             GPA: 3.89/ 4.0<br></br>
             <i>Courses:</i> Natural Language Processing, Machine Learning, Computer Vision, Algorithms,<br></br>
-            Security and Privacy, Numerical Methods, Statistical Methods, Probability<br></br>
+            &emsp;Security and Privacy, Numerical Methods, Statistical Methods, Probability<br></br>
             <i>TA:</i> Data Structures and Algorithms, Intro to Computer Science, Statistical Methods<br></br>
             </p>
           </ul>
