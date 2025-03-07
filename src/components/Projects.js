@@ -78,6 +78,9 @@ const Projects = () => {
                 <p className="py-5 text-center text-white">
                   {project.desc}
                 </p>
+                <p className="py-5 text-center text-white">
+                  {project.skills}
+                </p>
 
                 <div className="mx-auto">
                   <a
